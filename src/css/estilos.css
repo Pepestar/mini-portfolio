@@ -148,7 +148,7 @@ body{
 }
 
 .redes-sociais .curriculo{
-    background-color: #44066da9;
+    background-color: rgb(14, 88, 7);
 }
 
 .redes-sociais .instagram{
@@ -180,5 +180,8 @@ body{
 }
 
 .meu-portfolio .relogio-virtual {
-    background-color: rgba(228, 4, 4, 0.733);
-}
+    background-color: red; }
+
+    .meu-portfolio .hora-do-dia {
+        background-color: firebrick;
+    }
