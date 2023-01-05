@@ -152,7 +152,7 @@ body{
 }
 
 .redes-sociais .instagram{
-    background-color: #06c185;
+    background-color: #c10683;
 }
 
 .redes-sociais .linkedin{
@@ -176,12 +176,16 @@ body{
 }
 
 .meu-portfolio .primeira-pokedex{
-    background-color: #1d87bd;
+    background-color: #1973a0;
 }
 
 .meu-portfolio .relogio-virtual {
     background-color: red; }
 
     .meu-portfolio .hora-do-dia {
-        background-color: firebrick;
+        background-color: rgba(178, 34, 34, 0.582);
+    }
+
+    .meu-portfolio .cep {
+        background-color: #1d87bd;
     }
